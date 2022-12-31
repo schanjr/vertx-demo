@@ -1,0 +1,21 @@
+---
+:runtime:
+- io.vertx:vertx-core:jar:4.3.7
+- io.netty:netty-handler:jar:4.1.86.Final
+- com.fasterxml.jackson.core:jackson-core:jar:2.14.0
+- io.netty:netty-handler-proxy:jar:4.1.86.Final
+- io.netty:netty-resolver:jar:4.1.86.Final
+- io.netty:netty-resolver-dns:jar:4.1.86.Final
+- io.vertx:vertx-web:jar:4.3.7
+- io.vertx:vertx-auth-common:jar:4.3.7
+- io.netty:netty-codec:jar:4.1.86.Final
+- io.netty:netty-codec-dns:jar:4.1.86.Final
+- io.netty:netty-codec-socks:jar:4.1.86.Final
+- io.vertx:vertx-web-common:jar:4.3.7
+- io.netty:netty-buffer:jar:4.1.86.Final
+- io.netty:netty-codec-http:jar:4.1.86.Final
+- io.netty:netty-common:jar:4.1.86.Final
+- io.netty:netty-transport-native-unix-common:jar:4.1.86.Final
+- io.netty:netty-codec-http2:jar:4.1.86.Final
+- io.netty:netty-transport:jar:4.1.86.Final
+- io.vertx:vertx-bridge-common:jar:4.3.7
