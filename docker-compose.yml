@@ -3,11 +3,22 @@ version: '3.7'
 services:
   postgres:
     image: postgres:14
+    environment:
+      - POSTGRES_PASSWORD=development
+      - POSTGRES_USER=development
+      - POSTGRES_DB=postgres
     volumes:
-      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - pg_data:/var/lib/postgresql_13/data
     ports:
       - 5432:5432
   app:
-    build: ./docker_app
+    build:
+      context: ./
+      dockerfile: ./docker_app/Dockerfile
+    ports:
+      - 8080:8080
+
+volumes:
+  pg_data:
 
 

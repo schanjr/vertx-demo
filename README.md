@@ -4,15 +4,15 @@
 ## vertx 
 Vert.x, the event-driven, reactive framework for building high-performance, scalable applications.
 
-Now, Vert.x is a polyglot framework that runs on the Java Virtual Machine and supports multiple languages, including Java, Kotlin, JavaScript, and Ruby. It's designed to be lightweight and fast, and it provides a wide range of features and integrations, including support for HTTP, WebSockets, message queues, and more.
+Vert.x is a polyglot framework that runs on the Java Virtual Machine and supports multiple languages, including Java, Kotlin, JavaScript, and Ruby. It's designed to be lightweight and fast, and it provides a wide range of features and integrations, including support for HTTP, WebSockets, message queues, and more.
 
-Now, Vert.x is a reactive framework, which means that it's built around the idea of asynchronous, non-blocking programming. This makes it well-suited for building applications that need to handle a lot of concurrent connections and perform tasks efficiently.
+Vert.x is a reactive framework, which means that it's built around the idea of asynchronous, non-blocking programming. This makes it well-suited for building applications that need to handle a lot of concurrent connections and perform tasks efficiently.
 
-Now, you might be wondering how Vert.x compares to other popular frameworks out there. Well, one thing that sets it apart is its polyglot nature. If you're working on a mixed language project, or you just want the flexibility to write code in multiple languages, Vert.x is a great choice.
+you might be wondering how Vert.x compares to other popular frameworks out there. Well, one thing that sets it apart is its polyglot nature. If you're working on a mixed language project, or you just want the flexibility to write code in multiple languages, Vert.x is a great choice.
 
 Another thing that makes Vert.x stand out is its focus on performance and scalability. It's designed to handle a large number of concurrent connections with minimal resource overhead, making it a good choice for high-traffic applications.
 
-So, in summary, Vert.x is a lightweight, event-driven, reactive framework that supports multiple languages and is focused on performance and scalability. If you're looking to build high-performance, scalable applications, it's definitely worth checking out. That's all I've got for now, peace out!
+In summary, Vert.x is a lightweight, event-driven, reactive framework that supports multiple languages and is focused on performance and scalability. If you're looking to build high-performance, scalable applications, it's definitely worth checking out.
 
 ## vertx with jruby 
 JRuby is a version of the Ruby programming language that runs on the Java Virtual Machine (JVM). It allows developers to use Ruby to write programs that can be run on the JVM, and also provides integration with Java libraries and frameworks.
